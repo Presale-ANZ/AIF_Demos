@@ -27,5 +27,11 @@ TBD
 ## TBD as next step
 TBD
 
+## Resources
+https://www.uipath.com/product/rpa-ai-integration-with-ai-center
+https://docs.uipath.com/ai-fabric/v0/docs/about-ai-center
+https://docs.uipath.com/ai-fabric/docs/about-ai-fabric
+https://academy.uipath.com/learningpath-detail/2910/3/0/3
+
 ## License
 This project is under [Apache License](http://www.apache.org/licenses/LICENSE-2.0), since the retrain.py is based on the demo of Google Tensorflow hub
