@@ -1,4 +1,4 @@
-# AIFab_Inference
+# Image recognition 
 This is a demo code for using AI fabric in UiPath orchestrator.
 This demo contains:
 - A pre-trained model with google flower dataset
