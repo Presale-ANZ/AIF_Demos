@@ -1,4 +1,4 @@
-# Image recognition 
+# AI Fabric Demos
 This is a demo set for using AI fabric in UiPath orchestrator.
 This demo set contains:
 - A Model Template, will guide you how to write your own model 
